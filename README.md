@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @saqibm-bh
+- 👀 I’m interested in Cybersecurity , Ethical Hacking  & Gen AI ...
+- 🌱 I’m currently doing Bachelors in Computer Science at NUST , Islamabad Pakistan...
+- 📫 How to reach me : LinkedIn:  https://www.linkedin.com/in/saqib-mahmood-a4aa882a2/ ...
+
+<!---
+saqibm-bh/saqibm-bh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
